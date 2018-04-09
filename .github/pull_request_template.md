@@ -1,0 +1,7 @@
+## Cel: 
+
+
+### Todo:
+- [ ] 
+
+## Dla testującego
